@@ -95,7 +95,7 @@ DATABASES = {
         "NAME": "iot_data",  # Nombre de la base de datos
         "USER": "dbadmin",  # Nombre de usuario
         "PASSWORD": "uniandesIOT1234*",  # Contraseña
-        "HOST": "ec2-3-81-236-96.compute-1.amazonaws.com",  # Dirección IP de la base de datos
+        "HOST": "ec2-54-224-219-135.compute-1.amazonaws.com",  # Dirección IP de la base de datos
         "PORT": "",  # Puerto de la base de datos
     }
 }
